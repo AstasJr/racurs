@@ -1,0 +1,17 @@
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+.buttons button {
+    width: 80px;
+    margin: 2px;
+}
+#btn1 {
+    order: 1;
+}
+#btn2 {
+    order: 2;
+}
+#btn3 {
+    order: 3;
+}
